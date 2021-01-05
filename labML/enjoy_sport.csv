@@ -1,3 +1,4 @@
+sky,Weather,Temperature,Wind,Humidity,forecast,Goes
 sunny,warm,normal,strong,warm,same,Yes
 sunny,warm,high,strong,warm,same,Yes
 rainy,cold,high,strong,warm,change,No
